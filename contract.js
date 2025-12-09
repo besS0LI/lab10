@@ -1,4 +1,4 @@
-const contractAddress = "ВСТАВИТЬ_АДРЕС_СВОЕГО_КОНТРАКТА";
+const contractAddress = "0x8a4823C153cedda258a9Ec98991aaA873DD6EA7A";
 
 const contractAbi = [
     {
